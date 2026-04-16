@@ -1,7 +1,7 @@
 # Network Monitoring & Alerting System (Cacti + Telegram)
 
 ## Architecture
-![Architecture](screenshots/architecture.png)
+![Architecture](screenshots/Architecture.png)
 
 ## Project Overview
 This project demonstrates a real-world implementation of a network monitoring system using Cacti with alert integration.
