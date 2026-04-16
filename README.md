@@ -1,5 +1,8 @@
 # Network Monitoring & Alerting System (Cacti + Telegram)
 
+## Architecture
+![Architecture](screenshots/architecture.png)
+
 ## Project Overview
 This project demonstrates a real-world implementation of a network monitoring system using Cacti with alert integration.
 
@@ -23,9 +26,9 @@ Geocity Network Solution Pvt Ltd
 - Email and Telegram notification support
 
 ## Telegram Alert Script
-Custom bash script used:
-scripts/send_telegram_alert.sh
+Custom bash script used:  
+`scripts/send_telegram_alert.sh`
 
-Example:
+### Example:
 ```bash
 ./send_telegram_alert.sh "Device Down Alert"
